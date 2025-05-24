@@ -1,6 +1,6 @@
 # NailAI ✨ 
 
-**Virtually try on stunning nail designs before your next manicure!**
+**Virtually try on nail designs before your next manicure!**
 
 NailVirtuoso is an AI-powered mobile application that allows users to take a picture of their hands and see how different nail art designs would look on their own nails in real-time (or near real-time).
 
