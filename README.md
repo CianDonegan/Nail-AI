@@ -1,4 +1,4 @@
-# NailVirtuoso ✨ (Your App Name Here)
+# NailAI ✨ 
 
 **Virtually try on stunning nail designs before your next manicure!**
 
@@ -34,7 +34,7 @@ NailVirtuoso aims to solve this by:
 
 ## 🛠️ Tech Stack (Planned)
 
-*   **Mobile App (Frontend):** [React Native / Flutter / Swift (iOS) / Kotlin (Android) - Choose one to start]
+*   **Mobile App (Frontend):** React Native 
 *   **Backend & AI:** Python (Flask/FastAPI)
 *   **Containerization:** **Docker**
 *   **AI Libraries:**
@@ -42,7 +42,7 @@ NailVirtuoso aims to solve this by:
     *   Segmentation: TensorFlow (e.g., U-Net implementation, models from TensorFlow Hub)
     *   Generative Design: TensorFlow (e.g., custom GANs, or if using diffusion models, potentially adapting community implementations or exploring TensorFlow compatible options if they arise)
     *   Image Processing: OpenCV, Pillow, TensorFlow Image (`tf.image`)
-*   **Database (Optional - for user accounts/saved designs later):** [PostgreSQL/MongoDB - AWS RDS or DocumentDB could be options]
+*   **Database (Optional - for user accounts/saved designs later):** PostgreSQL/MongoDB 
 *   **Cloud Platform: Amazon Web Services (AWS)**
     *   Compute & Container Orchestration: Amazon EC2 (for general backend & GPU instances), **Amazon ECS/EKS (for Docker deployment)**, AWS App Runner, AWS Lambda (with container support)
     *   Container Registry: **Amazon ECR (Elastic Container Registry)**
